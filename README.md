@@ -41,7 +41,7 @@ $\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$
 
 <br>
 
-- 1sr Integral:  \(\int x^{\frac{3}{2}} \, dx\):\large \bf 
+- 1sr Integral:  $\(\int x^{\frac{3}{2}} \, dx\):\large \bf$ 
 
 
 

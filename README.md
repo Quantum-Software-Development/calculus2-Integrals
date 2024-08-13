@@ -19,6 +19,10 @@ Welcome to the "Basic Function Integrals" repository! This repository was create
 
 This repository pertains to the Calculus II and Probability course of the Machine Learning discipline in the second semester of 2024 for the Data Science and Artificial Intelligence undergraduate program at the Pontifical Catholic University of São Paulo (PUC-SP).
 
+<br>
+
+### Solved Exercises
+The exercises solved in this repository cover indefinite integrals and are presented with step-by-step solutions. Each example includes the original integral, decomposition into simpler terms (when applicable), the integration of each term, and the final answer.
 
 
 

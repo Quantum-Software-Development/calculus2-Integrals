@@ -39,6 +39,10 @@ $\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$
 
 $\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$ 
 
+<br>
+
+- 1sr Integral:  \(\int x^{\frac{3}{2}} \, dx\):\large \bf 
+
 
 
 

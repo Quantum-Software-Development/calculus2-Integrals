@@ -49,7 +49,7 @@ This repository covers the basic concepts of integration, which is the process o
 
 Contributions are welcome! If you want to add more examples, correct errors, or improve the documentation, please submit a pull request. Let's learn and grow together on the journey of integral calculus.
 
-## [How to Contribute]()
+### [How to Contribute]()
 
 Any contributions are highly appreciated.  You can contribute in two ways:
 

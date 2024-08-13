@@ -41,9 +41,13 @@ $\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$
 
 <br>
 
-- 1sr Integral:  $\(\int x^{\frac{3}{2}} \, dx\):\large \bf$
+- 1st Integral:  $\(\int x^{\frac{3}{2}} \, dx\):\large \bf$
 
   $\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}\large \bf$
+
+- 2.st $\(\int 2x \, dx\):\bf \large$
+
+  $\cdot \frac{x^{1+1}}{1+1} = 2 \cdot \frac{x^2}{2} = x^2\large \bf$ 
 
 
 

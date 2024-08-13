@@ -24,6 +24,14 @@ This repository pertains to the Calculus II and Probability course of the Machin
 ### Solved Exercises
 The exercises solved in this repository cover indefinite integrals and are presented with step-by-step solutions. Each example includes the original integral, decomposition into simpler terms (when applicable), the integration of each term, and the final answer.
 
+<br>
+
+### Exercise List
+
+Below are the exercises solved in this repository. They have been written in LaTeX to ensure a clear and precise presentation. Feel free to use and modify the code as needed.
+
+
+
 
 
 

@@ -26,6 +26,7 @@ The exercises solved in this repository cover indefinite integrals and are prese
 
 Below are the exercises solved in this repository. They have been written in LaTeX to ensure a clear and precise presentation. Feel free to use and modify the code as needed.
 
+#
 
 
 
@@ -39,7 +40,10 @@ Below are the exercises solved in this repository. They have been written in LaT
 
 
 
+#
 
+### [Fundamental Concepts]()
+This repository covers the basic concepts of integration, which is the process of finding the antiderivative of a function. Integration is an essential tool in calculus and is used to calculate areas under curves, volumes of solids of revolution, among other applications.
 
 
 

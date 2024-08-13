@@ -1,2 +1,1 @@
-# integralsCalculusII
-Calculus II - Basic Function Integrals
+# Calculus II - Basic Function Integrals

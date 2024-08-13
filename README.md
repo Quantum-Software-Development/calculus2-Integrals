@@ -1,1 +1,6 @@
-# Calculus II - Basic Function Integrals
+
+
+
+
+
+# <p align="center"> ✍️ Function Integrals - Calculus II - Resolution of Mathematics Exercises

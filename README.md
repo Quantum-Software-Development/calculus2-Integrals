@@ -58,7 +58,9 @@ Any contributions are highly appreciated.  You can contribute in two ways:
    2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹★🔭๋࣭
 
 
+## [Main Contributors]() 
 
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 
 

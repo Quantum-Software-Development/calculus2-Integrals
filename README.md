@@ -45,7 +45,7 @@ Below are the exercises solved in this repository. They have been written in LaT
 ### [Fundamental Concepts]()
 This repository covers the basic concepts of integration, which is the process of finding the antiderivative of a function. Integration is an essential tool in calculus and is used to calculate areas under curves, volumes of solids of revolution, among other applications.
 
-### [How to Contribute]()
+### [Contribute]()
 
 Contributions are welcome! If you want to add more examples, correct errors, or improve the documentation, please submit a pull request. Let's learn and grow together on the journey of integral calculus.
 

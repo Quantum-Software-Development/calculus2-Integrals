@@ -9,8 +9,6 @@
 
 <br>
 
-#
-
 #### <p align="center"> AI Data Science - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
 #

@@ -11,7 +11,13 @@
 
 #
 
-### <p align="center"> AI Data Science - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
+## <p align="center"> AI Data Science - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
+
+### Introduction to the Repository
+
+Welcome to the "Basic Function Integrals" repository! This repository was created to provide an introduction to integral calculus through practical examples. Here, you will find detailed solutions to various integrals of polynomial, trigonometric, and logarithmic functions. This material is suitable for both beginners and those who want to review fundamental concepts of calculus.
+
+This repository pertains to the Calculus II and Probability course of the Machine Learning discipline in the second semester of 2024 for the Data Science and Artificial Intelligence undergraduate program at the Pontifical Catholic University of São Paulo (PUC-SP).
 
 
 

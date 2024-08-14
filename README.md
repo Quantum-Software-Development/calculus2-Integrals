@@ -47,7 +47,7 @@ $\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$
 
   <br>
 
-- 2.st $\(\int 2x \, dx\):\bf \large$
+- 2.st Integral: $\(\int 2x \, dx\):\bf \large$
 
   $\cdot \frac{x^{1+1}}{1+1} = 2 \cdot \frac{x^2}{2} = x^2\large \bf$ 
 

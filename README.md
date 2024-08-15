@@ -41,7 +41,7 @@ $$\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$$
 
 <br>
 
-$$\int x^{\frac{3}{2}} \, dx$$ + $$\int 2x \, dx$$ + $$\int 1 \, dx$$ \bf \color{silver} {\huge \bf }$$
+$$\\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\color{silver} {}\color{silver} {\huge \bf }$$
 
 <br>
 

@@ -2,7 +2,7 @@
 
 # <p align="center"> ✍️ Function Integrals - Calculus II - Resolution of Mathematics Exercises
 
-<br><br>
+<br>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/8cee1a6f-8377-4d60-bf47-ae6dec56102e"/>
@@ -28,12 +28,12 @@ The exercises solved in this repository cover indefinite integrals and are prese
 
 Below are the exercises solved in this repository. They have been written in LaTeX to ensure a clear and precise presentation. Feel free to use and improve the code as needed.
 
-#
-
-## 1. Find the Intyegrals Below:
 
 
-### [1. Integral:]()  $$\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$$
+## Exercices: Find the Intyegrals Below 👇
+
+### [1. Integral:]()  
+$$\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$$
 
 **Solution:** We can integrate each term separately:
 

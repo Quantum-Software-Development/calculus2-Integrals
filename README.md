@@ -54,7 +54,7 @@ $$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} ➝ \frac{x^{\frac{5}{2}}}{\frac{5
 
  #
 
-- [**2st Integral:**]()
+- [**2st:**]()
 
 $$\int 2x \, dx:\bf \large$\color{silver} {\bf }$$$
 
@@ -62,13 +62,13 @@ $$\int 2x \, dx:\bf \large$\color{silver} {\bf }$$$
 
  $$\cdot \frac{x^{1+1}}{1+1} = 2 \cdot \frac{x^2}{2} = x^2\large \bf$$
 
- <br>
+ #
  
-- [**3st Integral:**]()
+- [**3st:**]()
 
   <br>
 
-\int 1 , dx :
+$$\int 1 , dx$$
 
 $$\int \sqrt[3]{x^2} \, dx = \frac{3}{5}x^{\frac{5}{3}} + C$$
 
@@ -79,6 +79,8 @@ $$\int \sqrt[3]{x^2} \, dx = \frac{3}{5}x^{\frac{5}{3}} + C$$
 <br>
 
 $$\large \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx = \frac{2}{5}x^{\frac{5}{2}} + x^2 + x + C no$$
+
+#
  
 
 

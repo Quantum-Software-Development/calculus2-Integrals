@@ -45,10 +45,10 @@ $$\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$$ \color{s
 
 <br>
 
-- [**1st:**]()  $\int x^{\frac{3}{2}} \, dx\color{silver} {\huge \bf }$
+- [**1st:**]()  $$\int x^{\frac{3}{2}} \, dx\color{silver} {\huge \bf }$$
 
 
-$$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} ➝ \frac{x^{\frac{5}{2}}}{\frac{5}{2}}  ➝ \frac{2}{5}x^{\frac{5}{2}}\large \bf$$\bf \large \color{silver} {\huge \bf }$$
+$$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} ➝ \frac{x^{\frac{5}{2}}}{\frac{5}{2}}  ➝ \frac{2}{5}x^{\frac{5}{2}}\large \bf$$\bf \large \color{silver} {\huge \bf }$$ hello
 
  #
 

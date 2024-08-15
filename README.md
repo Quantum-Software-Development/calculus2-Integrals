@@ -68,7 +68,7 @@ $$\int \sqrt[3]{x^2} \, dx = \frac{3}{5}x^{\frac{5}{3}} + C$$
 
   <br>
 
-<p align="center"> ☛ [**Final Result:**]() 👇
+[**Final Result:**]() ☟
 
 $$\large \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx = \frac{2}{5}x^{\frac{5}{2}} + x^2 + x + C no$$
  

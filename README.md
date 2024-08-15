@@ -71,9 +71,11 @@ $$\int 2x \, dx:\bf \large$\color{silver} {\bf }$$$
 
 $$\int 1 , dx$$
 
-$$\int \sqrt[3]{x^2} \, dx = \frac{3}{5}x^{\frac{5}{3}} + C$$
-
   <br>
+  
+$$\int \sqrt[3]{x^2} \, dx ➝ \frac{3}{5}x^{\frac{5}{3}} + C$$
+
+#
 
 [**Final Result:**]() ☟
 

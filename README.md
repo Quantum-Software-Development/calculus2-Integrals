@@ -13,9 +13,8 @@
 
 <br>
 
-#
 
-### [Introduction to the Repository]()
+## [Introduction to the Repository]()
 
 Welcome to the "Basic Function Integrals" repository! This repository was created to provide an introduction to integral calculus through practical examples. Here, you will find detailed solutions to various integrals of polynomial, trigonometric, and logarithmic functions. This material is suitable for both beginners and those who want to review fundamental concepts of calculus.
 
@@ -24,13 +23,11 @@ This repository pertains to the Calculus II and Probability course of the Machin
 ### [Solved Exercises]()
 The exercises solved in this repository cover indefinite integrals and are presented with step-by-step solutions. Each example includes the original integral, decomposition into simpler terms (when applicable), the integration of each term, and the final answer.
 
-### [Exercise List]()
+## [Exercise List]()
 
 Below are the exercises solved in this repository. They have been written in LaTeX to ensure a clear and precise presentation. Feel free to use and improve the code as needed.
 
-
-
-Exercises: Find the following integrals 👇
+## [Exercises: Find the following integrals]() 👇
 
 ### [Exercicise A:]()  
 
@@ -38,25 +35,30 @@ $$\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$$
 
 <br>
 
-⧴ **Solution:**:  We can integrate each term separately:
+⧴ **Solution:**: 💡We can integrate each term separately:
 
-$$\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$$ 
+$$\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$$ \color{silver} {\huge \bf }$$
 
 <br>
 
 ⧴ **1st Integral:**
 
- $$\(\int x^{\frac{3}{2}} \, dx\):\large \bf$$
+$$\int x^{\frac{3}{2}} \, dx:\large \bf$$\color{silver} {\huge \bf }\color{silver} {\huge \bf }$$
 
-  $$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}\large \bf$$
+<br>
 
- $$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}\large \bf$$\bf \large 
+$$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}\large \bf$$\bf \large \color{silver} {\huge \bf }$$
 
   <br>
 
-☞  **2st Integral:**  ⇨➢➛☜☚➾⇨$\(\int 2x \, dx\):\bf \large$
+☞  **2st Integral:**  ⇨➢➛☜☚➾⇨
 
-  $$\cdot \frac{x^{1+1}}{1+1} = 2 \cdot \frac{x^2}{2} = x^2\large \bf$$
+$$\int 2x \, dx:\bf \large$\color{silver} {\bf }$$$
+
+ <br>
+
+$$\cdot \frac{x^{1+1}}{1+1} = 2 \cdot \frac{x^2}{2} = x^2\large \bf$$
+
 
   <br>
  

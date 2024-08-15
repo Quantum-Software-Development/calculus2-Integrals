@@ -50,6 +50,8 @@ $$\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$$
 
   $$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}\large \bf$$
 
+ $$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}\large \bf$$\bf \large 
+
   <br>
 
 ⧴  **2st Integral:**  ⇨➢➛☜☚➾⇨$\(\int 2x \, dx\):\bf \large$

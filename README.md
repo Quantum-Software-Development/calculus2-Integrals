@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center"> ✍️ Function Integrals - Calculus II - Resolution of Mathematics Exercises
+# <p align="center"> ✍️ Calculus II - Function Integrals - Resolution of Mathematics Exercises
 
 <br>
 

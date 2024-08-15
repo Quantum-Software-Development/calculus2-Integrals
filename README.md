@@ -52,9 +52,9 @@ $\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$
   $\cdot \frac{x^{1+1}}{1+1} = 2 \cdot \frac{x^2}{2} = x^2\large \bf$
 
  
-- 3.\(\int 1 \, dx\):
+- 3.\int 1 \, dx\ :
 
-\[x\]
+- \x
  
 
 

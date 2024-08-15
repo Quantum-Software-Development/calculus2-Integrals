@@ -61,7 +61,7 @@ $$\int 2x \, dx\color{silver} {\huge \bf }$$
 
  <br>
 
- $$\cdot \frac{x^{1+1}}{1+1}$$ ➝ 2 \cdot \frac{x^2}{2} ➝  x^2\huge \bf$$
+ $$\cdot \frac{x^{1+1}}{1+1} ➝ 2 \cdot \frac{x^2}{2} ➝  x^2\huge \bf$$
 
  #
  
@@ -77,11 +77,7 @@ $$\int \sqrt[3]{x^2} \, dx ➝ \frac{3}{5}x^{\frac{5}{3}} + C$$
 
 [**Final Result:**]() ☟
 
-$$\large \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx$$
-
-<br>
-
-$$\frac{2}{5}x^{\frac{5}{2}} + x^2 + x + C\color{blue} {\huge \bf }$$
+$$\large \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx  ➞  \frac{2}{5}x^{\frac{5}{2}} + x^2 + x + C$$
 
 #
  

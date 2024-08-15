@@ -41,7 +41,7 @@ $$\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$$ \color{s
 
 <br>
 
-⧴ **1st Integral:**
+<p align="center"> ⧴ **1st Integral:**
 
 $$\int x^{\frac{3}{2}} \, dx:\large \bf$$\color{silver} {\huge \bf }\color{silver} {\huge \bf }$$
 
@@ -51,37 +51,27 @@ $$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{
 
   <br>
 
-☞  **2st Integral:**  ⇨➢➛☜☚➾⇨
+<p align="center"> ☞  **2st Integral:**  ⇨➢➛☜☚➾⇨
 
 $$\int 2x \, dx:\bf \large$\color{silver} {\bf }$$$
 
  <br>
 
-$$\cdot \frac{x^{1+1}}{1+1} = 2 \cdot \frac{x^2}{2} = x^2\large \bf$$
+ no$$\cdot \frac{x^{1+1}}{1+1} = 2 \cdot \frac{x^2}{2} = x^2\large \bf$$
 
 
   <br>
  
-☞ **3st Integral:** \int 1 , dx :
+<p align="center"> ☞ **3st Integral:** \int 1 , dx :
 
 $$\int \sqrt[3]{x^2} \, dx = \frac{3}{5}x^{\frac{5}{3}} + C$$
 
   <br>
 
-☛ [**Final Result:**]() 👇
+<p align="center"> ☛ [**Final Result:**]() 👇
 
 $$\large \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx = \frac{2}{5}x^{\frac{5}{2}} + x^2 + x + C no$$
  
-
-
-
-
-
-
-
-:
-
-
 
 
 

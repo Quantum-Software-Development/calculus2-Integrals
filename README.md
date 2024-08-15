@@ -62,7 +62,7 @@ $$\int 2x \, dx:\bf \large$\color{silver} {\bf }$$$
 
   <br>
  
-<p align="center"> ☞ **3st Integral:** \int 1 , dx :
+☞ **3st Integral:** \int 1 , dx :
 
 $$\int \sqrt[3]{x^2} \, dx = \frac{3}{5}x^{\frac{5}{3}} + C$$
 

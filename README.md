@@ -33,6 +33,7 @@ Below are the exercises solved in this repository. They have been written in LaT
 Exercises: Find the following integrals 👇
 
 ### [Exercicise A:]()  
+
 $$\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$$
 
 <br>
@@ -47,25 +48,26 @@ $\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$
 
  $$\(\int x^{\frac{3}{2}} \, dx\):\large \bf$$
 
-  $\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}\large \bf$
+  $$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}\large \bf$$
 
   <br>
 
-- 2st Integral: $\(\int 2x \, dx\):\bf \large$
+⧴  **2st Integral:**
+$\(\int 2x \, dx\):\bf \large$
 
-  $\cdot \frac{x^{1+1}}{1+1} = 2 \cdot \frac{x^2}{2} = x^2\large \bf$
+  $$\cdot \frac{x^{1+1}}{1+1} = 2 \cdot \frac{x^2}{2} = x^2\large \bf$$
 
     <br>
 
  
 - 3st Integral: \int 1 , dx :
 
-$\int \sqrt[3]{x^2} \, dx = \frac{3}{5}x^{\frac{5}{3}} + C$
+$$\int \sqrt[3]{x^2} \, dx = \frac{3}{5}x^{\frac{5}{3}} + C$$
 
 
 [**Final Result:**]()
 
-$\large \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx = \frac{2}{5}x^{\frac{5}{2}} + x^2 + x + C no$
+$$\large \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx = \frac{2}{5}x^{\frac{5}{2}} + x^2 + x + C no$$
  
 
 

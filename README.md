@@ -51,17 +51,17 @@ $$\int x^{\frac{3}{2}} \, dx\color{silver} {\huge \bf }$$
 
  <br>
 
-$$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} ➝ \frac{x^{\frac{5}{2}}}{\frac{5}{2}}  ➝ \frac{2}{5}x^{\frac{5}{2}}\large \bf$$\bf \large \color{silver} {\huge \bf }$$ 
+$$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} ➝ \frac{x^{\frac{5}{2}}}{\frac{5}{2}}  ➝ \frac{2}{5}x^{\frac{5}{2}}\large \bf \bf \large \color{silver} {\huge \bf }$$ 
 
  #
 
 - [**2st:**]()
 
-$$\int 2x \, dx:\bf \large$\color{silver} {\bf }$$$
+$$\int 2x \, dx\color{silver} {\huge \bf }$$
 
  <br>
 
- $$\cdot \frac{x^{1+1}}{1+1}$$ ➝ 2 \cdot \frac{x^2}{2} ➝  x^2\large \bf$$
+ $$\cdot \frac{x^{1+1}}{1+1}$$ ➝ 2 \cdot \frac{x^2}{2} ➝  x^2\huge \bf$$
 
  #
  

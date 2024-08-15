@@ -31,7 +31,7 @@ Below are the exercises solved in this repository. They have been written in LaT
 
 ### [Exercicise A:]() 
 
-<br> I can't talk
+<br>
 
 $$\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$$
 
@@ -45,21 +45,14 @@ $$\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\large \bf$$ \color{s
 
 <br>
 
-- [**1st Integral:**]()
+- [**1st:**  $\int x^{\frac{3}{2}} \, dx\color{silver} {\huge \bf }$]()
 
-<br>
 
-$$\int x^{\frac{3}{2}} \, dx:\large \bf$$\color{silver} {\huge \bf }\color{silver} {\huge \bf }$$
+$$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} ➝ \frac{x^{\frac{5}{2}}}{\frac{5}{2}}  ➝ \frac{2}{5}x^{\frac{5}{2}}\large \bf$$\bf \large \color{silver} {\huge \bf }$$
 
-<br>
-
-$$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}\large \bf$$\bf \large \color{silver} {\huge \bf }$$
-
- <br>
+ #
 
 - [**2st Integral:**]()
-
-  <br> Book
 
 $$\int 2x \, dx:\bf \large$\color{silver} {\bf }$$$
 

@@ -33,7 +33,7 @@ Below are the exercises solved in this repository. They have been written in LaT
 
 <br>
 
-$$\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$$
+$$\color{silver} {\huge \bf int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx}$$
 
 <br>
 

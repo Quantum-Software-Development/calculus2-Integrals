@@ -30,9 +30,9 @@ Below are the exercises solved in this repository. They have been written in LaT
 
 
 
-## Exercices: Find the Intyegrals Below 👇
+Exercises: Find the following integrals 👇
 
-### [1. Integral:]()  
+### [Exercicise A:]()  
 $$\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$$
 
 <br>

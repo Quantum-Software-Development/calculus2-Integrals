@@ -37,7 +37,7 @@ $$\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$$
 
 <br>
 
-- [**Solution:**:]() 💡We can integrate each term separately:
+- 💡 [**Solution:**:]() We can integrate each term separately:
 
 <br>
 

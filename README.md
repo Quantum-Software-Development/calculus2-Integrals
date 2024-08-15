@@ -27,9 +27,9 @@ The exercises solved in this repository cover indefinite integrals and are prese
 
 Below are the exercises solved in this repository. They have been written in LaTeX to ensure a clear and precise presentation. Feel free to use and improve the code as needed.
 
-## [Exercises: Find the following integrals]() ☟
+### [Exercises: Find the following integrals]() ☟
 
-### [Exercicise A:]()  
+[Exercicise A:]()  
 
 $$\int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx\huge \color{silver}$$
 

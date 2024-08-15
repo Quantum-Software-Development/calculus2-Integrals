@@ -2,12 +2,12 @@
 
 # <p align="center"> ✍️ Function Integrals - Calculus II - Resolution of Mathematics Exercises
 
-<br>
+<br><br>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/8cee1a6f-8377-4d60-bf47-ae6dec56102e"/>
 
-<br>
+<br><br>
 
 #### <p align="center"> AI Data Science - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 

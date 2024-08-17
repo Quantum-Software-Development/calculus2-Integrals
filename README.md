@@ -79,8 +79,6 @@ $$\huge \bf \int 1 \, dx \rightarrow x + k$$
 
  <br><br>
 
-<br><br>
-
 [**Final Result:**]() 
 
 $$\large \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx  ➞  \frac{2}{5}x^{\frac{5}{2}} + x^2 + x + C$$

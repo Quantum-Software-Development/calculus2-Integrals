@@ -1,4 +1,4 @@
-Which<br>
+YeahWhich<br>
 
 # <p align="center"> ✍️ Calculus II - Function Integrals - Resolution of Mathematics Exercises
 
@@ -79,7 +79,7 @@ $$\huge \bf \ x + k$$
 
  <br><br>
 
- <p align="center"> [**Final Result:**:]() 
+###  <p align="center"> [**Final Result:**]() 
 
  <br>
 

@@ -73,7 +73,7 @@ $$\huge \bf \int 1 \, dx \rightarrow x + k$$
 
  <br>
 
-<p align="center"> where \(C\) is the constant of integration. 
+<p align="center"> where \(k\) is the constant of integration. 
 
 \int 1 \, dx = x + k
 

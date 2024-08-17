@@ -20,8 +20,20 @@ Welcome to the "Basic Function Integrals" repository! This repository was create
 
 This repository pertains to the Calculus II and Probability course of the Machine Learning discipline in the second semester of 2024 for the Data Science and Artificial Intelligence undergraduate program at the Pontifical Catholic University of São Paulo (PUC-SP).
 
-[Fundamental Concepts]()
+
+## [Fundamental Concepts]()
+
 This repository covers the basic concepts of integration, which is the process of finding the antiderivative of a function. Integration is an essential tool in calculus and is used to calculate areas under curves, volumes of solids of revolution, among other applications.
+
+
+## [Why Integrals are Important for AI Data Scientists]()
+
+Integrals are a crucial mathematical tool for AI Data Scientists due to their wide-ranging applications in data analysis, machine learning, and artificial intelligence. Here are a few key reasons:
+
+
+
+
+
 
 
 

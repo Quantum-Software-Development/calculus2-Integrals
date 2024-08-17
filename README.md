@@ -97,6 +97,10 @@ First, express the cube root as a fractional exponent:
 
 $$\huge \bf \int x^{\frac{2}{3}} \, dx$$
 
+Integrating: ☟
+
+\frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} = \frac{x^{\frac{5}{3}}}{\frac{5}{3}} = \frac{3}{5}x^{\frac{5}{3}}
+
 
 
 #

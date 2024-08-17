@@ -115,7 +115,7 @@ $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\fr
 
  <br>
 
- $$\huge \bf \int \sqrt[3]{x^2} \, dx \rightarrow \frac{3}{5}x^{\frac{5}{3}} + k$$
+ $$\huge \bf \int \sqrt[3]{x^2} dx \rightarrow \frac{3}{5}x^{\frac{5}{3}} + k$$
  
 
 #

@@ -95,6 +95,8 @@ $$\large \huge \bf \int \sqrt[3]{x^2} \, dx$$
 
 First, express the cube root as a fractional exponent:
 
+$$\huge \bf \int x^{\frac{2}{3}} \, dx$$
+
 
 
 #

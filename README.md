@@ -61,7 +61,9 @@ $$\huge \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} \rightarrow \frac{x^{\fr
 
 <br><br>
  
-- [**3st:**]()  ☞   $\huge \bf  \int 1 dx$ 
+- [**3st:**]()  ☞   $\huge \bf  \int 1 dx$
+
+ <br>
 
 The indefinite integral of \(1\) with respect to \(x\) is given by:
 

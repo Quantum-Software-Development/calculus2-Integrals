@@ -1,4 +1,4 @@
-YeahFaceOhHey first first firstNo boa<br>
+MiceYeahFaceOhHey first first firstNo boa<br>
 
 # <p align="center"> ✍️ Calculus II - Function Integrals - Resolution of Mathematics Exercises
 
@@ -64,6 +64,19 @@ $$\huge \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} \rightarrow \frac{x^{\fr
 - [**3st:**]()  ☞   $\huge \bf  \int 1 dx$ 
 
   <br>
+
+ The indefinite integral of \(1\) with respect to \(x\) is given by:
+
+\[
+\int 1 \, dx = x + k
+\]
+
+where \(C\) is the constant of integration. 
+
+\int 1 \, dx = x + k
+
+
+
   
 $$$$
 

@@ -45,7 +45,7 @@ $$\huge \bf \int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx$$
 
 <br><br>
 
-- [**1st:**]() ☞   $\large \bf \int x^{\frac{3}{2}} \, dx$
+- [**1st:**]() ☞   $\huge \bf \int x^{\frac{3}{2}} dx$
 
  <br>
 

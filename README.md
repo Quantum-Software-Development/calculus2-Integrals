@@ -38,7 +38,7 @@ Integrals are a crucial mathematical tool for AI Data Scientists due to their wi
 
    4. [Continuous Data and Functions:]() When dealing with continuous data, integrals allow data scientists to perform crucial operations like calculating areas under curves (e.g., ROC AUC), smoothing data, or analyzing cumulative distributions. This understanding is key to making accurate predictions and assessments in AI models.
 
-Neural Networks: In the realm of neural networks, integrals are fundamental to understanding how different layers interact, especially in cases involving activation functions or backpropagation, where continuous change is a core element.
+   5. Neural Networks: In the realm of neural networks, integrals are fundamental to understanding how different layers interact, especially in cases involving activation functions or backpropagation, where continuous change is a core element.
 
 Conclusion
 Mastering integrals and their applications is vital for AI Data Scientists. Whether it’s in probability theory, optimization, or data analysis, integrals provide the mathematical foundation needed to build, understand, and improve complex machine learning models. By grasping these fundamental concepts, you’ll be better equipped to tackle the challenges and opportunities in the field of artificial intelligence.

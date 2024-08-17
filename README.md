@@ -1,4 +1,4 @@
-YeahWhich<br>
+Yeah MassYeahWhich<br>
 
 # <p align="center"> ✍️ Calculus II - Function Integrals - Resolution of Mathematics Exercises
 
@@ -109,7 +109,7 @@ $$\huge \bf \int x^{\frac{2}{3}} \, dx$$
 
 \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} = \frac{x^{\frac{5}{3}}}{\frac{5}{3}} = \frac{3}{5}x^{\frac{5}{3}}
 
-
+ <br><br>
 
 #
 

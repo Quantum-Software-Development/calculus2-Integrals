@@ -61,11 +61,11 @@ $$\huge \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} \rightarrow \frac{x^{\fr
 
 <br><br>
  
-- [**3st:**]()  ☞   $\huge \bf  \int 1 \, dx$ 
+- [**3st:**]()  ☞   $\huge \bf  \int 1 dx$ 
 
   <br>
   
-$$\int \sqrt[3]{x^2} \, dx ➝ \frac{3}{5}x^{\frac{5}{3}} + C$$
+$$$$
 
 <br><br>
 

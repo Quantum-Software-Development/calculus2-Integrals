@@ -32,7 +32,7 @@ Integrals are a crucial mathematical tool for AI Data Scientists due to their wi
 
    1. [Probability and Statistics:]() Many machine learning algorithms rely heavily on probability theory. Integrals are used to calculate probabilities, especially when dealing with continuous random variables. For instance, the probability of a certain outcome within a range can be found by integrating the probability density function over that range.
 
-Optimization Algorithms: Machine learning models, particularly those in deep learning, often involve optimizing a cost function. These functions are typically minimized or maximized by calculating gradients, which involve integration in continuous spaces. Understanding the integral calculus behind these processes helps in fine-tuning algorithms for better performance.
+   2. [Optimization Algorithms:]() Machine learning models, particularly those in deep learning, often involve optimizing a cost function. These functions are typically minimized or maximized by calculating gradients, which involve integration in continuous spaces. Understanding the integral calculus behind these processes helps in fine-tuning algorithms for better performance.
 
 Expectation and Variance: In the analysis of machine learning models, integrals are used to compute expected values (means) and variances of continuous random variables. These metrics are essential for evaluating model performance and understanding the underlying data distribution.
 

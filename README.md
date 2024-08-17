@@ -53,7 +53,7 @@ $$\large \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}
 
 <br><br>
 
-- [**2st:**]()  ☞   $\huge \bf \int 2x \, dx\$
+- [**2st:**]()  ☞   $\huge \bf \int 2x dx\$
 
  <br>
 

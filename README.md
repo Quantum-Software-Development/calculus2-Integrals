@@ -149,9 +149,7 @@ $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\fr
 
  <br>
 
-\int \frac{1}{x^3} \, dx
-
-
+$$\huge \bf \int \frac{1}{x^3} \, dx$$
 
 #
 

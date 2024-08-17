@@ -43,9 +43,7 @@ Below are the exercises solved in this repository. They have been written in LaT
 
 $$\\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\color{silver} {}\color{silver} {\huge \bf }$$
 
-
-###### <p align="center">  ──✩₊⁺⋆⋆∫⋆⁺₊✧───✩₊⁺⋆⋆∫⋆⁺₊✧───✩₊⁺⋆⋆∫⋆⁺₊✧──
-
+<br><br>
 
 - [**1st:**]()
 
@@ -55,7 +53,7 @@ $${\huge \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx}$$
 
 $$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} ➝ \frac{x^{\frac{5}{2}}}{\frac{5}{2}}  ➝ \frac{2}{5}x^{\frac{5}{2}}\large \bf \bf \large \color{silver} {\huge \bf }$$ 
 
- #
+<br><br>
 
 - [**2st:**]()
 
@@ -65,7 +63,7 @@ $$\int 2x \, dx\color{silver} {\huge \bf }$$
 
  $$\cdot \frac{x^{1+1}}{1+1} ➝ 2 \cdot \frac{x^2}{2} ➝  x^2\huge \bf$$
 
- #
+<br><br>
  
 - [**3st:**]()
 
@@ -75,7 +73,7 @@ $$\int 1 , dx$$
   
 $$\int \sqrt[3]{x^2} \, dx ➝ \frac{3}{5}x^{\frac{5}{3}} + C$$
 
- <br>
+<br><br>
 
 [**Final Result:**]() 
 

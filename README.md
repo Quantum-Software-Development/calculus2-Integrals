@@ -79,7 +79,7 @@ $$\huge \bf \ x + k$$
 
  <br><br>
 
-[**Final Result:**]() 
+ <p align="center"> [**Final Result:**:]() 
 
  <br>
 

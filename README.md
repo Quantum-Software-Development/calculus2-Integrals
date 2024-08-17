@@ -1,4 +1,4 @@
-YesYeah MassYeahWhich<br>
+YeahYesYeah MassYeahWhich<br>
 
 # <p align="center"> ✍️ Calculus II - Function Integrals - Resolution of Mathematics Exercises
 
@@ -77,7 +77,7 @@ $$\huge \bf \int 1 \, dx \rightarrow x + k$$
 
 $$\huge \bf \ x + k$$
 
- <br><br>
+ <br>
 
 ###  <p align="center"> [**Final Result:**]() 
 
@@ -109,7 +109,11 @@ $$\huge \bf \int x^{\frac{2}{3}} \, dx$$
 
 $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\frac{5}{3}}}{\frac{5}{3}} \rightarrow \frac{3}{5}x^{\frac{5}{3}}$$
 
- <br><br>
+ <br>
+
+ ###  <p align="center"> [**Final Result:**]() 
+
+ <br>
 
 #
 

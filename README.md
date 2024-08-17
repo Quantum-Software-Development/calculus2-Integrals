@@ -75,7 +75,7 @@ $$\huge \bf \int 1 \, dx \rightarrow x + k$$
 
 <p align="center"> where \(k\) is the constant of integration. 
 
-\int 1 \, dx = x + k
+$$\huge \bf \int 1 \, dx \rightarrow x + k$$
 
  <br><br>
 

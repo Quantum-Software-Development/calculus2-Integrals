@@ -57,7 +57,7 @@ $$\huge \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} \rightarrow \frac{x^{\fr
 
  <br>
 
- $$\huge \bf  \cdot \frac{x^{1+1}}{1+1} \rightarrow 2 \cdot \frac{x^2}{2} \rightarrow x^2$$
+ $$\huge \bf \frac{x^{1+1}}{1+1} \rightarrow 2 \cdot \frac{x^2}{2} \rightarrow x^2$$
 
 <br><br>
  

@@ -147,6 +147,8 @@ $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\fr
 
 ### [Exercicise C:]() 
 
+ <br>
+
 
 
 

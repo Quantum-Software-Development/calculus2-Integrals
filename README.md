@@ -41,7 +41,7 @@ Below are the exercises solved in this repository. They have been written in LaT
 
 <br>
 
-$$\\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\color{silver} {}\color{silver} {\huge \bf }$$
+$$\huge \bf \int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx$$
 
 <br><br>
 

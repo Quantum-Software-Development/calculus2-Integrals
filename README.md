@@ -73,11 +73,11 @@ $$\huge \bf \int 1 \, dx \rightarrow x + k$$
 
  <br>
 
-where \(C\) is the constant of integration. 
+<p align="center"> where \(C\) is the constant of integration. 
 
 \int 1 \, dx = x + k
 
- <br> <br>
+ <br><br>
 
 <br><br>
 

@@ -49,7 +49,7 @@ $$\huge \bf \int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx$$
 
  <br>
 
-$$\large \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}$$ 
+$$\huge \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} \rightarrow \frac{x^{\frac{5}{2}}}{\frac{5}{2}} \rightarrow \frac{2}{5}x^{\frac{5}{2}}$$ 
 
 <br><br>
 

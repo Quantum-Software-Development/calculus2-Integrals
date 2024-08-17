@@ -49,7 +49,7 @@ $$\\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\color{silver} {}\co
 
  <br>
 
-$$\frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} ➝ \frac{x^{\frac{5}{2}}}{\frac{5}{2}}  ➝ \frac{2}{5}x^{\frac{5}{2}}\large \bf \bf \large \color{silver} {\huge \bf }$$ 
+$$\large \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}$$ 
 
 <br><br>
 

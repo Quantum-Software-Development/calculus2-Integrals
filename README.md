@@ -93,11 +93,11 @@ $$\huge \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx \rightarrow \frac{2
 
 $$\large \huge \bf \int \sqrt[3]{x^2} \, dx$$
 
-First, express the cube root as a fractional exponent:
+<p align="center"> First, express the cube root as a fractional exponent:
 
 $$\huge \bf \int x^{\frac{2}{3}} \, dx$$
 
-Integrating: ☟
+<p align="center"> Integrating: ☟
 
 \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} = \frac{x^{\frac{5}{3}}}{\frac{5}{3}} = \frac{3}{5}x^{\frac{5}{3}}
 

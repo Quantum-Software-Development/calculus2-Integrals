@@ -34,7 +34,7 @@ Integrals are a crucial mathematical tool for AI Data Scientists due to their wi
 
    2. [Optimization Algorithms:]() Machine learning models, particularly those in deep learning, often involve optimizing a cost function. These functions are typically minimized or maximized by calculating gradients, which involve integration in continuous spaces. Understanding the integral calculus behind these processes helps in fine-tuning algorithms for better performance.
 
-Expectation and Variance: In the analysis of machine learning models, integrals are used to compute expected values (means) and variances of continuous random variables. These metrics are essential for evaluating model performance and understanding the underlying data distribution.
+   3. [Expectation and Variance:]() In the analysis of machine learning models, integrals are used to compute expected values (means) and variances of continuous random variables. These metrics are essential for evaluating model performance and understanding the underlying data distribution.
 
 Continuous Data and Functions: When dealing with continuous data, integrals allow data scientists to perform crucial operations like calculating areas under curves (e.g., ROC AUC), smoothing data, or analyzing cumulative distributions. This understanding is key to making accurate predictions and assessments in AI models.
 

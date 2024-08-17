@@ -20,6 +20,17 @@ Welcome to the "Basic Function Integrals" repository! This repository was create
 
 This repository pertains to the Calculus II and Probability course of the Machine Learning discipline in the second semester of 2024 for the Data Science and Artificial Intelligence undergraduate program at the Pontifical Catholic University of São Paulo (PUC-SP).
 
+[Fundamental Concepts]()
+This repository covers the basic concepts of integration, which is the process of finding the antiderivative of a function. Integration is an essential tool in calculus and is used to calculate areas under curves, volumes of solids of revolution, among other applications.
+
+
+
+
+
+
+
+
+
 ### [Solved Exercises]()
 The exercises solved in this repository cover indefinite integrals and are presented with step-by-step solutions. Each example includes the original integral, decomposition into simpler terms (when applicable), the integration of each term, and the final answer.
 

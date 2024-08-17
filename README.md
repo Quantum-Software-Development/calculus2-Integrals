@@ -1,4 +1,4 @@
-OhHey first first firstNo boa<br>
+FaceOhHey first first firstNo boa<br>
 
 # <p align="center"> ✍️ Calculus II - Function Integrals - Resolution of Mathematics Exercises
 
@@ -45,9 +45,7 @@ $$\\int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx\color{silver} {}\co
 
 <br><br>
 
-- [**1st:**]()
-
-$${\huge \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx}$$
+- [**1st:**]() ☞   $\large \bf \int x^{\frac{3}{2}} \, dx$
 
  <br>
 

@@ -63,20 +63,19 @@ $$\huge \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} \rightarrow \frac{x^{\fr
  
 - [**3st:**]()  ☞   $\huge \bf  \int 1 dx$ 
 
-  <br>
-
 PleaseThe indefinite integral of \(1\) with respect to \(x\) is given by:
 
+ <br>
+
 $$\huge \bf \int 1 \, dx \rightarrow x + k$$
+
+ <br>
 
 where \(C\) is the constant of integration. 
 
 \int 1 \, dx = x + k
 
-
-
-  
-$$$$
+ <br> <br>
 
 <br><br>
 

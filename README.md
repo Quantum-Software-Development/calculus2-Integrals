@@ -1,4 +1,4 @@
-Yeah MassYeahWhich<br>
+YesYeah MassYeahWhich<br>
 
 # <p align="center"> ✍️ Calculus II - Function Integrals - Resolution of Mathematics Exercises
 
@@ -91,7 +91,7 @@ $$\huge \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx \rightarrow \frac{2
  
 ### [Exercicise B:]() 
 
-$$\large \huge \bf \int \sqrt[3]{x^2} \, dx$$
+$$\huge \bf \int \sqrt[3]{x^2} \, dx$$
 
 <br>
 

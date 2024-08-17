@@ -57,7 +57,7 @@ $$\large \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}
 
  <br>
 
- $$\cdot \frac{x^{1+1}}{1+1} ➝ 2 \cdot \frac{x^2}{2} ➝  x^2\huge \bf$$
+ $$\huge \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} = \frac{2}{5}x^{\frac{5}{2}}$$
 
 <br><br>
  

@@ -1,5 +1,3 @@
-YeahYesYeah MassYeahWhich<br>
-
 # <p align="center"> ✍️ Calculus II - Function Integrals - Resolution of Mathematics Exercises
 
 <br>

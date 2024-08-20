@@ -14,6 +14,10 @@ YeahYesYeah MassYeahWhich<br>
 <br>
 
 
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+
 ## [Introduction to the Repository]()
 
 Welcome to the "Basic Function Integrals" repository! This repository was created to provide an introduction to integral calculus II through practical examples. Here, you will find detailed solutions to various integrals of polynomial, trigonometric, and logarithmic functions. This material is suitable for both beginners and those who want to review fundamental concepts of calculus II.

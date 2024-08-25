@@ -177,6 +177,7 @@ $$\huge \bf \int \frac{1}{x^3} \, dx = -\frac{1}{2x^2} + k$$
 
 ### [Exercicise D:]() 
 
+ <br>
 
 
 

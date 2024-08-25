@@ -183,6 +183,8 @@ $$\huge \bf \int \frac{x^2 + x + 1}{\sqrt{x}} \, dx$$
 
 <p align="center"> Solution of the integral: ☟
 
+We can rewrite the integral by dividing each term in the numerator by the denominator:
+
 
 
 

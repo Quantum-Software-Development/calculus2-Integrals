@@ -188,6 +188,11 @@ $$\huge \bf \int x^{-3} \, dx = \frac{x^{-2}}{-2} + C = -\frac{1}{2x^2} + k$$
 
 
 
+
+
+
+
+
 ### [Contribute]()
 
 Contributions are welcome! If you want to add more examples, correct errors, or improve the documentation, please submit a pull request. Let's learn and grow together on the journey of integral calculus.

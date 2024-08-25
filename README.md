@@ -181,6 +181,8 @@ $$\huge \bf \int \frac{1}{x^3} \, dx = -\frac{1}{2x^2} + k$$
 
 \int \frac{x^2 + x + 1}{\sqrt{x}} \, dx
 
+\huge \bf \int \frac{x^2 + x + 1}{\sqrt{x}} \, dx
+
 
 
 

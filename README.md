@@ -161,7 +161,7 @@ $$\huge \bf \int x^n \, dx = \frac{x^{n+1}}{n+1} + k$$
 
 <p align="center"> Applying the rule to the given function: ☟
 
-\huge \bf \int x^{-3} \, dx = \frac{x^{-2}}{-2} + C = -\frac{1}{2x^2} + k
+$$\huge \bf \int x^{-3} \, dx = \frac{x^{-2}}{-2} + C = -\frac{1}{2x^2} + k$$
 
 
 

@@ -155,7 +155,6 @@ $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\fr
 $$\huge \bf \int \frac{1}{x^3} \, dx$$
 
 
-<
 **Solution of the integral:**
  Power rule for integration:☟
 
@@ -173,6 +172,16 @@ $$\huge \bf \frac{1}{2x^2} + k$$
 ###  <p align="center"> [**Final Result:**]() 
 
 $$\huge \bf \int \frac{1}{x^3} \, dx = -\frac{1}{2x^2} + k$$
+
+#
+
+
+
+
+
+
+
+
 
 
 

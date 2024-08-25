@@ -172,7 +172,7 @@ $$\huge \bf \frac{1}{2x^2} + k$$
 
 ###  <p align="center"> [**Final Result:**]() 
 
-\int \frac{1}{x^3} \, dx = -\frac{1}{2x^2} + C
+\int \frac{1}{x^3} \, dx = -\frac{1}{2x^2} + k
 
 
 

@@ -156,6 +156,7 @@ $$\huge \bf \int \frac{1}{x^3} \, dx$$
 
 #
 
+**Power rule for integration:**
 
 
 

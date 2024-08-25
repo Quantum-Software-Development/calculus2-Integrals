@@ -179,6 +179,13 @@ $$\huge \bf \int x^n \, dx = \frac{x^{n+1}}{n+1} + k$$
 
 
 
+
+
+
+
+
+
+
 ### [Contribute]()
 
 Contributions are welcome! If you want to add more examples, correct errors, or improve the documentation, please submit a pull request. Let's learn and grow together on the journey of integral calculus.

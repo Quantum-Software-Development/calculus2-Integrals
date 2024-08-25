@@ -159,7 +159,7 @@ $$\huge \bf \int \frac{1}{x^3} \, dx$$
 
 $$\huge \bf \int x^n \, dx = \frac{x^{n+1}}{n+1} + k$$ 
 
-Applying the rule to the given function:
+<p align="center"> Applying the rule to the given function:
 
 
 

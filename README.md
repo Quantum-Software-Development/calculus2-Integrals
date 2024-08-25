@@ -168,6 +168,9 @@ $$\huge \bf \int x^{-3} \, dx = \frac{x^{-2}}{-2} + C = -\frac{1}{2x^2} + k$$
 
 <p align="center"> Solution of the integral: ☟
 
+\frac{1}{2x^2} + k
+
+
  
 
 

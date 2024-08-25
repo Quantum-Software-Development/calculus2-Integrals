@@ -189,6 +189,9 @@ $$\huge \bf \int \left(\frac{x^2}{\sqrt{x}} + \frac{x}{\sqrt{x}} + \frac{1}{\sqr
 
 $$\huge \bf \int \left(x^{\frac{3}{2}} + x^{\frac{1}{2}} + x^{-\frac{1}{2}}\right) \, dx$$
 
+<p align="center"> Integrating each term: ☟
+
+
 
 
 

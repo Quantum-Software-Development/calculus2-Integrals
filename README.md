@@ -157,7 +157,7 @@ $$\huge \bf \int \frac{1}{x^3} \, dx$$
 
 <p align="center"> Power rule for integration:☟
 
-$$\int x^n \, dx = \frac{x^{n+1}}{n+1} + k$$ 
+\huge \bf \int x^n \, dx = \frac{x^{n+1}}{n+1} + k 
 
 
 

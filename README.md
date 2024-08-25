@@ -185,6 +185,8 @@ $$\huge \bf \int \frac{x^2 + x + 1}{\sqrt{x}} \, dx$$
 
 \int \left(\frac{x^2}{\sqrt{x}} + \frac{x}{\sqrt{x}} + \frac{1}{\sqrt{x}}\right) \, dx
 
+$$\huge \bf \int \left(\frac{x^2}{\sqrt{x}} + \frac{x}{\sqrt{x}} + \frac{1}{\sqrt{x}}\right) \, dx$$
+
 
 
 

@@ -189,6 +189,9 @@ This simplifies to:
 
 \int \left(x^{\frac{3}{2}} + x^{\frac{1}{2}} + x^{-\frac{1}{2}}\right) \, dx
 
+$$\int \left(x^{\frac{3}{2}} + x^{\frac{1}{2}} + x^{-\frac{1}{2}}\right) \, dx$$
+
+
 
 
 

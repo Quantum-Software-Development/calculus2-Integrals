@@ -191,7 +191,7 @@ $$\huge \bf \int \left(x^{\frac{3}{2}} + x^{\frac{1}{2}} + x^{-\frac{1}{2}}\righ
 
 <p align="center"> Integrating each term: ☟
 
-1. \(\int x^{\frac{3}{2}} \, dx = \frac{2}{5}x^{\frac{5}{2}}\)
+1. \huge \bf  \int x^{\frac{3}{2}} \, dx = \frac{2}{5}x^{\frac{5}{2}}
 
 
 

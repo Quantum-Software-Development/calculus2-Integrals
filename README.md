@@ -162,7 +162,7 @@ $$\huge \bf \int x^n \, dx = \frac{x^{n+1}}{n+1} + k$$
 $$\huge \bf \int x^{-3} \, dx = \frac{x^{-2}}{-2} + C = -\frac{1}{2x^2} + k$$
 
 
-<p align="center"> Solution of the integral: ☟
+###  <p align="center"> [Solution of the integral:]() ☟
 
 $$\huge \bf \frac{1}{2x^2} + k$$
 

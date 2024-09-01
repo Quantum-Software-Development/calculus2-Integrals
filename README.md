@@ -197,6 +197,8 @@ $$\huge \bf  \int x^{\frac{1}{2}} \, dx = \frac{2}{3}x^{\frac{3}{2}}$$
 
 $$\huge \bf  \int x^{-\frac{1}{2}} \, dx = 2x^{\frac{1}{2}}$$
 
+ ###  <p align="center"> [**Final Result:**]() 
+
 
 
 

@@ -157,7 +157,7 @@ $$\huge \bf \int \frac{1}{x^3} \, dx$$
 
 $$\huge \bf \int x^n \, dx = \frac{x^{n+1}}{n+1} + k$$ 
 
-###  <p align="center"> [Applying the rule to the given function:() ☟
+###  <p align="center"> [Applying the rule to the given function:]() ☟
 
 $$\huge \bf \int x^{-3} \, dx = \frac{x^{-2}}{-2} + C = -\frac{1}{2x^2} + k$$
 
@@ -178,11 +178,11 @@ $$\huge \bf \int \frac{1}{x^3} \, dx = -\frac{1}{2x^2} + k$$
 $$\huge \bf \int \frac{x^2 + x + 1}{\sqrt{x}} \, dx$$
 
 
-###  <p align="center">  💡 [**Solution:**: We can integrate each term separately:]()
+###  <p align="center">  💡 [**Solution:**: We can integrate each term separately:]() ☟
 
 $$\huge \bf \int \left(\frac{x^2}{\sqrt{x}} + \frac{x}{\sqrt{x}} + \frac{1}{\sqrt{x}}\right) \, dx$$
 
-### <p align="center"> [This simplifies to:]() 
+### <p align="center"> [This simplifies to:]() ☟
 
 $$\huge \bf \int \left(x^{\frac{3}{2}} + x^{\frac{1}{2}} + x^{-\frac{1}{2}}\right) \, dx$$
 

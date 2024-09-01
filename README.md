@@ -199,44 +199,7 @@ $$\huge \bf  \int x^{-\frac{1}{2}} \, dx = 2x^{\frac{1}{2}}$$
 
  ###  <p align="center"> [**Final Result:**]() 
 
- \int \frac{x^2 + x + 1}{\sqrt{x}} \, dx = \frac{2}{5}x^{\frac{5}{2}} + \frac{2}{3}x^{\frac{3}{2}} + 2x^{\frac{1}{2}} + k
-
 $$\huge \bf \int \frac{x^2 + x + 1}{\sqrt{x}} \, dx = \frac{2}{5}x^{\frac{5}{2}} + \frac{2}{3}x^{\frac{3}{2}} + 2x^{\frac{1}{2}} + k$$
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #

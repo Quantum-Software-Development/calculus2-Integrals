@@ -153,11 +153,11 @@ $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\fr
 $$\huge \bf \int \frac{1}{x^3} \, dx$$
 
 
-<p align="center"> Solution of the integral: ☟
+###  <p align="center"> [Solution of the integral:]() ☟
 
 $$\huge \bf \int x^n \, dx = \frac{x^{n+1}}{n+1} + k$$ 
 
-<p align="center"> Applying the rule to the given function: ☟
+###  <p align="center"> [Applying the rule to the given function:() ☟
 
 $$\huge \bf \int x^{-3} \, dx = \frac{x^{-2}}{-2} + C = -\frac{1}{2x^2} + k$$
 

@@ -56,7 +56,7 @@ Below are the exercises solved in this repository. They have been written in LaT
 
 ### [Exercises: Find the following integrals]() ☟
 
-### [Exercicise A:]() 
+## [Exercicise A:]() 
 
 <br>
 
@@ -116,7 +116,7 @@ $$\huge \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx \rightarrow \frac{2
 
  #
  
-### [Exercicise B:]() 
+## [Exercicise B:]() 
 
 $$\huge \bf \int \sqrt[3]{x^2} \, dx$$
 
@@ -148,7 +148,7 @@ $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\fr
 
 #
 
-### [Exercicise C:]() 
+## [Exercicise C:]() 
 
  <br>
 

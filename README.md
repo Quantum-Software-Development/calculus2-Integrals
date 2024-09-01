@@ -114,7 +114,6 @@ $$\huge \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx \rightarrow \frac{2
 
  <br>
 
- #
  
 ## [Exercicise B:]() 
 
@@ -146,7 +145,6 @@ $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\fr
 
  <br>
 
-#
 
 ## [Exercicise C:]() 
 
@@ -172,9 +170,8 @@ $$\huge \bf \frac{1}{2x^2} + k$$
 
 $$\huge \bf \int \frac{1}{x^3} \, dx = -\frac{1}{2x^2} + k$$
 
-#
 
-### [Exercicise D:]() 
+## [Exercicise D:]() 
 
  <br>
 

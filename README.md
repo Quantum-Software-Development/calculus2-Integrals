@@ -195,7 +195,7 @@ $$\huge \bf  \int x^{\frac{3}{2}} \, dx = \frac{2}{5}x^{\frac{5}{2}}$$
 
 $$\huge \bf  \int x^{\frac{1}{2}} \, dx = \frac{2}{3}x^{\frac{3}{2}}$$
 
- \int x^{-\frac{1}{2}} \, dx = 2x^{\frac{1}{2}}
+$$\huge \bf  \int x^{-\frac{1}{2}} \, dx = 2x^{\frac{1}{2}}$$
 
 
 

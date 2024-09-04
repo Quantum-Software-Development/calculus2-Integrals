@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/0b67b15b-57eb-45b5-bba0-a4445b112ee6
 
 <br>
 
-# <p align="center"> ✍️ Calculus II - Function Integrals - Resolution of Mathematics Exercises
+# <p align="center"> ✍️ Calculus 2 - Function Integrals - Resolution of Mathematics Exercises
 
 #### <p align="center"> AI Data Science - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 

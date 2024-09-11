@@ -25,10 +25,10 @@ spacy==3.7.6
 
 # Web Scraping Libraries:
 beautifulsoup4==4.12.3
-requests==2.32.0
+requests==2.32.3
 
 # Database Libraries:
-sqlalchemy==2.0.32
+sqlalchemy==2.0.34
 psycopg2-binary==2.9.9
 
 # Jupyter Notebook Libraries:

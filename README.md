@@ -132,7 +132,7 @@ $$\huge \bf \int x^{\frac{2}{3}} \, dx$$
 
 <br>
 
-#### <p align="center"> [Integrating:]() 
+##### <p align="center"> [Integrating:]() 
 
  <br>
 
@@ -156,40 +156,40 @@ $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\fr
 $$\huge \bf \int \frac{1}{x^3} \, dx$$
 
 
-###  <p align="center"> [Solution of the integral:]() ☟
+#####  <p align="center"> [Solution of the integral:]() ☟
 
 $$\huge \bf \int x^n \, dx = \frac{x^{n+1}}{n+1} + k$$ 
 
-###  <p align="center"> [Applying the rule to the given function:]() ☟
+#####  <p align="center"> [Applying the rule to the given function:]() ☟
 
 $$\huge \bf \int x^{-3} \, dx = \frac{x^{-2}}{-2} + C = -\frac{1}{2x^2} + k$$
 
 
-###  <p align="center"> [Solution of the integral:]() ☟
+#####  <p align="center"> [Solution of the integral:]() ☟
 
 $$\huge \bf \frac{1}{2x^2} + k$$
 
-###  <p align="center"> [**Final Result:**]() 
+#####  <p align="center"> [**Final Result:**]() 
 
 $$\huge \bf \int \frac{1}{x^3} \, dx = -\frac{1}{2x^2} + k$$
 
 
-## [Exercicise D:]() 
+##### [Exercicise D:]() 
 
  <br>
 
 $$\huge \bf \int \frac{x^2 + x + 1}{\sqrt{x}} \, dx$$
 
 
-###  <p align="center">  💡 [**Solution:**: We can integrate each term separately:]() ☟
+#####  <p align="center">  💡 [**Solution:**: We can integrate each term separately:]() ☟
 
 $$\huge \bf \int \left(\frac{x^2}{\sqrt{x}} + \frac{x}{\sqrt{x}} + \frac{1}{\sqrt{x}}\right) \, dx$$
 
-### <p align="center"> [This simplifies to:]() ☟
+##### <p align="center"> [This simplifies to:]() ☟
 
 $$\huge \bf \int \left(x^{\frac{3}{2}} + x^{\frac{1}{2}} + x^{-\frac{1}{2}}\right) \, dx$$
 
-### <p align="center"> [Integrating each term:]() ☟
+##### <p align="center"> [Integrating each term:]() ☟
 
 $$\huge \bf  \int x^{\frac{3}{2}} \, dx = \frac{2}{5}x^{\frac{5}{2}}$$
 
@@ -197,14 +197,14 @@ $$\huge \bf  \int x^{\frac{1}{2}} \, dx = \frac{2}{3}x^{\frac{3}{2}}$$
 
 $$\huge \bf  \int x^{-\frac{1}{2}} \, dx = 2x^{\frac{1}{2}}$$
 
- ###  <p align="center"> [**Final Result:**]() 
+ #####  <p align="center"> [**Final Result:**]() 
 
 $$\huge \bf \int \frac{x^2 + x + 1}{\sqrt{x}} \, dx = \frac{2}{5}x^{\frac{5}{2}} + \frac{2}{3}x^{\frac{3}{2}} + 2x^{\frac{1}{2}} + k$$
 
 
-#
+<br>
 
-### [Contribute]()
+## [Contribute]()
 
 Contributions are welcome! If you want to add more examples, correct errors, or improve the documentation, please submit a pull request. Let's learn and grow together on the journey of integral calculus.
 

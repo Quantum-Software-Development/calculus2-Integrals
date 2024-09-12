@@ -140,7 +140,7 @@ $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\fr
 
  <br>
 
- ###  <p align="center"> [**Final Result:**]() 
+ #####  <p align="center"> [**Final Result:**]() 
 
  <br>
 

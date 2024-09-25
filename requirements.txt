@@ -1,10 +1,10 @@
 
 # Framework Web Application:
-Django==5.1
+Django==5.1.1
 
 
 # Data Manipulation Libraries:
-numpy==2.1.0
+numpy==2.1.1
 pandas==2.2.2
 
 # Data Visualization Libraries:

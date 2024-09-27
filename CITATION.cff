@@ -1,9 +1,9 @@
 
 cff-version: 1.2.0
-title:  MindfulAI ⚝ Copilots & Bots Repository
+title: Quantum-Software-Development 
 message: If you really want to cite this repository, here's how you should cite it.
 type: software
 authors:
-  - given-names: Quantum-Software-Development - Integrals - Calculos 2
-repository-code: https://github.com/Quantum-Software-Development/integralsCalculus2
+  - given-names: Quantum-Software-Development - calculus2-Integrals
+repository-code: https://github.com/Quantum-Software-Development/calculus2-Integrals
 license: MIT License 

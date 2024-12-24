@@ -72,7 +72,6 @@ Below are the exercises solved in this repository. They have been written in LaT
 
 $\huge \bf \int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx$
 
-<p align="center">  ────────────── ✦ ──────────────
 
 ☟ [**1st:**]()    
 

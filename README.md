@@ -123,15 +123,11 @@ $\huge \bf \int \sqrt[3]{x^2} \, dx$
 
 [First, express the cube root as a fractional exponent]():  ☟ 
 
-<br>
-
-$$\huge \bf \int x^{\frac{2}{3}} \, dx$$
+$\huge \bf \int x^{\frac{2}{3}} \, dx$
 
 <br>
 
-##### <p align="center"> [Integrating:]() 
-
- <br>
+[Integrating:]()  ☟ 
 
 $$\huge \bf \frac{x^{\frac{2}{3} + 1}}{\frac{2}{3} + 1} \rightarrow \frac{x^{\frac{5}{3}}}{\frac{5}{3}} \rightarrow \frac{3}{5}x^{\frac{5}{3}}$$
 

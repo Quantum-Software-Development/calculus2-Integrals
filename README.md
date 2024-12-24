@@ -85,6 +85,8 @@ $\huge \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} \rightarrow \frac{x^{\fra
 
 $\huge \bf \int 2x dx\$  
 
+<br>
+
 $\huge \bf \frac{x^{1+1}}{1+1} \rightarrow 2 \cdot \frac{x^2}{2} \rightarrow x^2$
 
 <br>
@@ -93,15 +95,19 @@ $\huge \bf \frac{x^{1+1}}{1+1} \rightarrow 2 \cdot \frac{x^2}{2} \rightarrow x^2
  
 $\huge \bf  \int 1 dx$
 
-The indefinite integral of \(1\) with respect to \(x\) is given by: ☟ 
+<br>
+
+[The indefinite integral of \(1\) with respect to \(x\) is given by](): ☟ 
 
 $\huge \bf \int 1 \, dx \rightarrow x + k$
 
+<br>
 
-<p align="center"> where \(k\) is the constant of integration. 
+[Where $\(k\)$ is the constant of integration]()
 
 $\huge \bf \ x + k$
 
+<br>
 
 [**Final Result:**]() ☟ 
 

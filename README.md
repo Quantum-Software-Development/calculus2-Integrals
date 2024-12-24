@@ -59,25 +59,24 @@ The exercises solved in this repository cover indefinite integrals and are prese
 
 Below are the exercises solved in this repository. They have been written in LaTeX to ensure a clear and precise presentation. Feel free to use and improve the code as needed.
 
-### [Exercises: Find the following integrals]() ☟
+### [Exercises: Find the following integrals]() 👇
 
-## [Exercicise A:]() 
+### [Exercicise A:]() 
 
-<br>
 
  ${\huge \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx}$
 
-<br>
 
-- 💡 [**Solution:**: We can integrate each term separately:]()
+☟ [**Solution:**: We can integrate each term separately:]()
 
-<br>
 
 $\huge \bf \int x^{\frac{3}{2}} \, dx + \int 2x \, dx + \int 1 \, dx$
 
-<br><br>
+<p align="center">  ────────────── ✦ ──────────────
 
-- [**1st:**]() ☞   $\huge \bf \int x^{\frac{3}{2}} dx$
+☟ [**1st:**]()    
+
+$\huge \bf \int x^{\frac{3}{2}} dx$
 
  <br>
 
@@ -85,7 +84,7 @@ $$\huge \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} \rightarrow \frac{x^{\fr
 
 <br><br>
 
-- [**2st:**]()  ☞   $\huge \bf \int 2x dx\$
+☟ [**2st:**]()  ☞   $\huge \bf \int 2x dx\$
 
  <br>
 
@@ -93,34 +92,30 @@ $$\huge \bf \frac{x^{\frac{3}{2} + 1}}{\frac{3}{2} + 1} \rightarrow \frac{x^{\fr
 
 <br><br>
  
-- [**3st:**]()  ☞   $\huge \bf  \int 1 dx$
-
- <br>
+ ☟ [**3st:**]()    
+ 
+ $\huge \bf  \int 1 dx$
 
 <p align="center"> The indefinite integral of \(1\) with respect to \(x\) is given by:
 
- <br>
 
-$$\huge \bf \int 1 \, dx \rightarrow x + k$$
+$\huge \bf \int 1 \, dx \rightarrow x + k$
 
- <br>
 
 <p align="center"> where \(k\) is the constant of integration. 
 
-$$\huge \bf \ x + k$$
+$\huge \bf \ x + k$
 
- <br>
 
-###  <p align="center"> [**Final Result:**]() 
+☟ [**Final Result:**]() 
 
- <br>
 
 $$\huge \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx \rightarrow \frac{2}{5}x^{\frac{5}{2}} + x^2 + x + k$$
 
- <br>
 
+#
  
-## [Exercicise B:]() 
+### [Exercicise B:]() 
 
 $$\huge \bf \int \sqrt[3]{x^2} \, dx$$
 

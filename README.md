@@ -103,7 +103,7 @@ $\huge \bf \int 1 \, dx \rightarrow x + k$
 
 <br>
 
-[Where $\(k\)$ is the constant of integration]()
+[Where $\(k\)$ is the constant of integration]()  ☟ 
 
 $\huge \bf \ x + k$
 
@@ -115,13 +115,13 @@ $\huge \bf \int \left(x^{\frac{3}{2}} + 2x + 1\right) \, dx \rightarrow \frac{2}
 
 #
  
-### [Exercicise B:]() 
+### [Exercicise B:]() ☟ 
 
-$$\huge \bf \int \sqrt[3]{x^2} \, dx$$
+$\huge \bf \int \sqrt[3]{x^2} \, dx$
 
 <br>
 
-<p align="center"> First, express the cube root as a fractional exponent:
+[First, express the cube root as a fractional exponent]():  ☟ 
 
 <br>
 

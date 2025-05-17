@@ -4,7 +4,7 @@ Django==5.1.6
 
 
 # Data Manipulation Libraries:
-numpy==2.2.3
+numpy==2.2.4
 pandas==2.2.3
 
 # Data Visualization Libraries:
@@ -18,6 +18,9 @@ scikit-learn==1.6.1
 # Machine Learning Libraries:
 tensorflow==2.18.1
 keras==3.8.0
+tensorflow==2.18.0
+keras==3.9.2
+
 
 # Natural Language Processing Libraries:
 nltk==3.9.1
@@ -28,7 +31,7 @@ beautifulsoup4==4.13.3
 requests==2.32.3
 
 # Database Libraries:
-sqlalchemy==2.0.38
+sqlalchemy==2.0.40
 psycopg2-binary==2.9.10
 
 # Jupyter Notebook Libraries:

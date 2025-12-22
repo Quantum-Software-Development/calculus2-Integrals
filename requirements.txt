@@ -4,8 +4,12 @@ Django==5.1.6
 
 
 # Data Manipulation Libraries:
+
 numpy==2.2.4
 pandas==2.3.3
+
+
+
 
 # Data Visualization Libraries:
 matplotlib==3.10.1
@@ -36,7 +40,7 @@ psycopg2-binary==2.9.10
 
 # Jupyter Notebook Libraries:
 jupyter==1.1.1
-notebook==7.4.4
+notebook==7.4.7
 ipywidgets==8.1.7
 
 # Other Useful Libraries:

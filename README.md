@@ -210,12 +210,43 @@ Any contributions are highly appreciated.  You can contribute in two ways:
    2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹★🔭๋࣭
 
 
-### [Main Contributors]() 
+<br><br>
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
+<br><br>
+
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+
+
+<br><br><br>
+
+<p align="center">  ────────────── 🔭⋆ ──────────────
+
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+
 
 
 #
 
-###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
+###### <p align="center"> Copyright 2026 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
+
+
+
+
+
+
+
+
 

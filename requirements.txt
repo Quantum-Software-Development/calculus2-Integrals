@@ -1,6 +1,6 @@
 
 # Framework Web Application:
-Django==6.0.1
+Django==6.1.2
 
 
 # Data Manipulation Libraries:
